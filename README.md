@@ -8,3 +8,4 @@ Projekt ten opisuje obsługe Państw oraz ich poddanych z możliwością wykonyw
 -powiększanie budynków mieszkalnych limitujących ilośc poddanych na państwo
 -skłądowanie surowców przez poddanych
 -nadawanie umiejętności poddanym
+a
